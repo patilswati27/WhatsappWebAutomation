@@ -5,7 +5,6 @@
     <classes>
       <class name="com.bridgelabz.testcases.WhatsappWebAppTest">
         <methods>
-          <include name="setup"/>
           <include name="Test"/>
         </methods>
       </class> <!-- com.bridgelabz.testcases.WhatsappWebAppTest -->
